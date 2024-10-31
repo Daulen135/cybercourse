@@ -1,7 +1,11 @@
 export const LP_GRID_ITEMS = [
   {
-    title: "Next.js",
-    description: "Fast by default, with config optimized for performance.",
+    title: (
+      <a href="https://youtu.be/8E4VV92D4Eo" target="_blank" rel="noopener noreferrer">
+        1. What is Cybersecurity?
+      </a>
+    ),
+    description: "Introduction and Basic Definitions.",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -20,8 +24,12 @@ export const LP_GRID_ITEMS = [
     ),
   },
   {
-    title: "Tailwind CSS",
-    description: "A utility-first CSS framework for rapid UI development.",
+    title: (
+      <a href="https://youtu.be/k5gNESWGq98" target="_blank" rel="noopener noreferrer">
+        2. Risk Management 
+      </a>
+    ),
+    description: "How to handle risks in Cybersecurity?",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -40,8 +48,12 @@ export const LP_GRID_ITEMS = [
     ),
   },
   {
-    title: "ESlint & Prettier",
-    description: "For clean, consistent, and error-free code.",
+    title: (
+      <a href="https://youtu.be/rrxsHF2XILg" target="_blank" rel="noopener noreferrer">
+        3. Damaging Cyber Attacks
+      </a>
+    ),
+    description: "DoS, DDoS, Botnet and Zombies",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -56,8 +68,12 @@ export const LP_GRID_ITEMS = [
     ),
   },
   {
-    title: "Extremely strict TypeScript",
-    description: "With `ts-reset` library for ultimate type safety.",
+    title: (
+      <a href="https://youtu.be/9JpNCI7RYY4" target="_blank" rel="noopener noreferrer">
+        4. How Hackers Exploit Human Nature?
+      </a>
+    ),
+    description: "Tampering and interception.",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -76,8 +92,12 @@ export const LP_GRID_ITEMS = [
     ),
   },
   {
-    title: "Bundle analyzer plugin",
-    description: "Keep an eye on your bundle size.",
+    title: (
+      <a href="https://youtu.be/v8_SPLp0Qes" target="_blank" rel="noopener noreferrer">
+        5. Impersonation Attacks
+      </a>
+    ),
+    description: "Phishing and others.",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -96,8 +116,12 @@ export const LP_GRID_ITEMS = [
     ),
   },
   {
-    title: "Jest & React Testing Library",
-    description: "For rock-solid unit and integration tests.",
+    title: (
+      <a href="https://youtu.be/5QJB8yqcyLE" target="_blank" rel="noopener noreferrer">
+        6. Data Theft
+      </a>
+    ),
+    description: "Personal and Business Theft.",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -116,8 +140,12 @@ export const LP_GRID_ITEMS = [
     ),
   },
   {
-    title: "Playwright",
-    description: "Write end-to-end tests like a pro.",
+    title: (
+      <a href="https://youtu.be/Rs-Zp0Ezzmo" target="_blank" rel="noopener noreferrer">
+        7. Malware
+      </a>
+    ),
+    description: "Viruses,Worms, Trojans and others.",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -136,8 +164,12 @@ export const LP_GRID_ITEMS = [
     ),
   },
   {
-    title: "Storybook",
-    description: "Create, test, and showcase your components.",
+    title: (
+      <a href="https://youtu.be/W8F3kfW0PE0" target="_blank" rel="noopener noreferrer">
+        8. Poisoned Web Service Attacks
+      </a>
+    ),
+    description: "Network Infastructure and DNS Poisoning.",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -156,8 +188,12 @@ export const LP_GRID_ITEMS = [
     ),
   },
   {
-    title: "Smoke Testing & Acceptance Tests",
-    description: "For confidence in your deployments.",
+    title: (
+      <a href="https://youtu.be/cw4vIHIP3dw" target="_blank" rel="noopener noreferrer">
+        9. Malvertising, Drive-By, Password Stealing
+      </a>
+    ),
+    description: "More attacks.",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -176,8 +212,12 @@ export const LP_GRID_ITEMS = [
     ),
   },
   {
-    title: "Conventional commits git hook",
-    description: "Keep your commit history neat and tidy.",
+    title: (
+      <a href="https://youtu.be/ga4jCGRhHy8" target="_blank" rel="noopener noreferrer">
+        10. Advanced Attacks
+      </a>
+    ),
+    description: "APT, Opportunistic, Targeted.",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -196,8 +236,12 @@ export const LP_GRID_ITEMS = [
     ),
   },
   {
-    title: "Observability",
-    description: "Open Telemetry integration for seamless monitoring.",
+    title: (
+      <a href="https://youtu.be/MZpxNVOVfYo" target="_blank" rel="noopener noreferrer">
+        11. Technical Cyber Attacks
+      </a>
+    ),
+    description: "Rootkits, Brute-Force, Injections and others",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -217,8 +261,12 @@ export const LP_GRID_ITEMS = [
     ),
   },
   {
-    title: "Absolute imports",
-    description: "No more spaghetti imports.",
+    title: (
+      <a href="https://youtu.be/Qdkvt7dleWY" target="_blank" rel="noopener noreferrer">
+        12. Cyber Law and Ethics
+      </a>
+    ),
+    description: "Common Types of Computer Misuse Laws",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -237,8 +285,12 @@ export const LP_GRID_ITEMS = [
     ),
   },
   {
-    title: "Health checks",
-    description: "Kubernetes-compatible for robust deployments.",
+    title: (
+      <a href="https://youtu.be/sFbLDg_GuD0" target="_blank" rel="noopener noreferrer">
+        13. Cybersecurity - Who are the bad guys?
+      </a>
+    ),
+    description: "Kiddies, Nation States and others",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -257,8 +309,12 @@ export const LP_GRID_ITEMS = [
     ),
   },
   {
-    title: "Radix UI",
-    description: "Headless UI components for endless customization.",
+    title: (
+      <a href="https://youtu.be/cGReuQvSwns" target="_blank" rel="noopener noreferrer">
+        14. Anatomy of a Cyber Attack
+      </a>
+    ),
+    description: "Cyber Kill Chain framework and MITR.",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -277,8 +333,12 @@ export const LP_GRID_ITEMS = [
     ),
   },
   {
-    title: "CVA",
-    description: "Create a consistent, reusable, and atomic design system.",
+    title: (
+      <a href="https://youtu.be/GzYDrvzoxYM" target="_blank" rel="noopener noreferrer">
+        15. How Cyber Economics works?
+      </a>
+    ),
+    description: "Funding, crypto and other.",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -297,8 +357,12 @@ export const LP_GRID_ITEMS = [
     ),
   },
   {
-    title: "Renovate BOT",
-    description: "Auto-updating dependencies, so you can focus on coding.",
+    title: (
+      <a href="https://youtu.be/SPR59Ylj_Hc" target="_blank" rel="noopener noreferrer">
+        16. The Art of Manipulation: Inside Social Engineering
+      </a>
+    ),
+    description: "Common Social Engineering Tactics.",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -317,8 +381,12 @@ export const LP_GRID_ITEMS = [
     ),
   },
   {
-    title: "Patch-package",
-    description: "Fix external dependencies without losing your mind.",
+    title: (
+      <a href="https://youtu.be/xMI0yaJ0bzE" target="_blank" rel="noopener noreferrer">
+        17. Uncovering Secrets with Open-Source Intelligence
+      </a>
+    ),
+    description: "OSINT Sources.",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -337,8 +405,12 @@ export const LP_GRID_ITEMS = [
     ),
   },
   {
-    title: "Components coupling & cohesion graph",
-    description: "A tool for managing component relationships.",
+    title: (
+      <a href="https://youtu.be/9myJC0a0P8w" target="_blank" rel="noopener noreferrer">
+        18. How Attackers Scan Your Network?
+      </a>
+    ),
+    description: "Ping test, port scanning and others.",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -354,8 +426,12 @@ export const LP_GRID_ITEMS = [
     ),
   },
   {
-    title: "GitHub Actions",
-    description: "Pre-configured actions for smooth workflows, including Bundle Size and performance stats.",
+    title: (
+      <a href="https://youtu.be/3DC02wprcdo" target="_blank" rel="noopener noreferrer">
+        19. Cyber Attacks - Case Studies
+      </a>
+    ),
+    description: "SolarWinds, NSA leaks and others.",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -374,8 +450,12 @@ export const LP_GRID_ITEMS = [
     ),
   },
   {
-    title: "Automated ChatGPT Code Reviews",
-    description: "Stay on the cutting edge with AI-powered code reviews!",
+    title: (
+      <a href="https://youtu.be/7wfFkduyOIM" target="_blank" rel="noopener noreferrer">
+        20. Stay Safe: Essential Tips for Personal Security
+      </a>
+    ),
+    description: "Cybersecurity Posture, Endpoints and more",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -394,8 +474,12 @@ export const LP_GRID_ITEMS = [
     ),
   },
   {
-    title: "Semantic Release",
-    description: "For automatic changelog generation.",
+    title: (
+      <a href="https://youtu.be/YGOBVagusEw" target="_blank" rel="noopener noreferrer">
+        21. Essential Cyber Risk Protection Tips
+      </a>
+    ),
+    description: "Perimeter, Firewall and More.",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
